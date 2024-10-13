@@ -42,10 +42,12 @@ public class code : MonoBehaviour
         //중력제어
         if (Input.GetKeyDown (KeyCode.Keypad0)) {
             //gravity파라미터 이용
+            //중력을 제거
 		    Physics.gravity = Vector3.zero;
 	    }
 	    if (Input.GetKeyDown (KeyCode.Keypad8)) {
-	    	Physics.gravity = Vector3(0.0f,10.0f,0.0f);
+            //중력을 위로 작용
+	    	Physics.gravity = new Vector3(0.0f,10.0f,0.0f);
 	    }
 	    if (Input.GetKeyDown (KeyCode.Keypad2)) {
 	    	Physics.gravity = Vector3.down;
