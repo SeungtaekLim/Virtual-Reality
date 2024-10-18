@@ -4,12 +4,6 @@ using UnityEngine;
 
 public class code : MonoBehaviour
 {
-    // 첫 Update()호출 전 한번만 호출되는 Start()함수
-    void Start()
-    {
-        
-    }
-
     //prefab 변수 선언
     //Unity에서 스크립트를 준 오브젝트 클릭
     //-> Inspector항목에서 해당 스크립트에 prefab변수에 내가 만든 prefab객체를 지정해주어야 함.

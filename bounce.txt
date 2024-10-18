@@ -1,0 +1,5 @@
+물체가 바닥에 튕길려면
+
+Asset -> Create -> Physic Material
+Bounciness 설정
+Bounce Combine 설정
