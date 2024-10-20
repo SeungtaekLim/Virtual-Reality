@@ -1,0 +1,5 @@
+재질 설정 및 등록 방법
+Project  Create  Material
+이름 수정
+Albedo  Color 클릭 후 변경
+설정된 재질을 Drag & Drop으로 원하는 객체에 등록

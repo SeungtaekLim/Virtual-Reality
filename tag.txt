@@ -1,0 +1,4 @@
+Bullet  충돌처리
+Tag 설정
+Edit  Project Settings  Tags and Layers
+Tags : BULLET  Tag추가
